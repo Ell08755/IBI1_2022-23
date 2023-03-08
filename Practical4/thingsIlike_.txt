@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+I am tired.
+=======
+I am tired. test
+Cheer up, can you?
+Tommorrow is your birthday, you should be happy.
+
+>>>>>>> Ell
