@@ -1,11 +1,24 @@
-# Third note on 7/1/21, yes! I can make changes in both directions!!
 
-# Second note from 7/1/21, I managed to get changes on the ZJE server onto GitHub but can I make changes on the website and send them back?
-
-# Note from 7/1/21, I have cloned this repo onto the ZJE server and am now going to attempt to push it back onto GitHub.
-
-This is an example file for reflection in IBI1_2019-20.
-
-During this course, I have learnt version control, how to navigate Unix-like systems and how to write simple programs in Python.
-
-I have also learnt to write careful instructions when communicating online!
+#This is Lü Siyuan, writing reflections on Practical 4!
+#2023/3/7 :|
+*I tried to use the git on ZJE server. Unfortunately, it failed to connect and let me clone down(maybe also push up) the essential files that are needed.
+ I think maybe it's the problem of firewall, so I download git on my own computer to work. See you tomorrow!
+#2023/3/8 :(
+*It's really nice that the code works on git. 
+*Don't forget to git init to start a new repository, and turn on your vpn.
+*Always remember to add the modified file to repository before you want to commit the change!
+*Be careful with the typo...For exmaple, index-Index(wrong)
+ I struggle for the whole night thinking why my own website only shows 404, and find the 'Index" :(
+*when git ask you your identification, just show it your email
+*some possible "shortcut"
+i for insert commit when you are pushing/merging
+":x"":wq""Esc" can be used for escaping some windows
+touching Fnum+Fn to show their basic function
+*"vi" and "nano" can be used for create and modify a file
+#2023/3/10
+My friend can't push her file up to the github, here is the problem timeline
+------1-----------------------2--------------------3-------------------------4------------
+ clone repo down     edit sth on website   edit sth in local   try to push commit, falta
+so, the problem is between 2 and 3, there is some conflict between local version and cloud version, which leads to error
+so maybe it's better to "git pull" every time you begin your work and push after you finish them all.
+#2023/3/11
