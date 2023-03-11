@@ -1,0 +1,47 @@
+week 4 summary
+some git and github knowledges
+^knowledge
+commit(日常存档),tag(发布会/成就),revert (撤回),branch,merge,log
+常用退出方式：“:x" ":wq" "q"
+^command
+*git init
+ set up a git repository
+*git add <file>
+ Add file to git repository
+ notice: <, 即pointy bracket，在实际书写过程中不加，在这里只是表示从你的电脑里insert到git去
+*git commit -m "message you want to say"
+ 每次commit之前一定记得把新的文件先add回去
+*git checkout HEAD
+ Reads latest version from local repository into working directory 
+*git revert
+ git revert <commit number>
+ git revert HEAD---revert back to last commit version, escape by ":x"
+*git branch
+ git branch <branch name> --- create a new branch
+ git checkout <branch name> --- switch to branch
+ e.g. git checkout master
+ git branch --- check which branch you are on
+*git merge
+ git merge <branch name> --- Merge <branch name> into current branchv(before doing that, always make sure you are on the right branch)
+ Merge can create conflicts, resolve them
+*log
+ git log --oneline---see the commit history
+*edit file
+ nano <filename> edit + CtrlX + Y + Enter(this step you can change the filename)
+ vi <filename> i(enter insert mode) + edit + Esc(enter command mode) + :wq(to exit)
+ always remember to write the suffix!
+*fork (in github)
+ creat a version of exisiting github repository
+*clone
+ create a local copy of a github repository
+ e.g. git clone URL
+*git push
+ Push changes to Github
+ e.g. git push origin master(sometimes "main")
+*git fetch
+ Get changes from github
+*git pull
+ Git fetch + git merge 
+^Small tips:
+*scroll mouse to change the cursor place
+*as you highlight part of text in git, you already paste them
