@@ -45,3 +45,8 @@ commit(日常存档),tag(发布会/成就),revert (撤回),branch,merge,log
 ^Small tips:
 *scroll mouse to change the cursor place
 *as you highlight part of text in git, you already paste them
+*when you want to talk about a file which has blank in its filename, remember to use ''
+ e.g. nano 'hello world.txt'
+^maybe useful solution to "git Recv failure: Connection was reset"
+remove former origin: git remote remove origin
+set up new origin: git remote add origin http://github.com/×××
