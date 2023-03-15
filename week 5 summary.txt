@@ -1,0 +1,12 @@
+#Week 5 summary
+#notice: cause the summary is mainly written for me to understand better, may contain some chinese
+several ways to print command in python
+*print (a+b)
+ a and b should all be string, without blank automatically
+*print ('a',b)
+ no need to all be string, automatically add blank
+several calculation
+a*=b means a=a*b, other calculation symbols the same
+#to be detected
+import what meanings?
+
