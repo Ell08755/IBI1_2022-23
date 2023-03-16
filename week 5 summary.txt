@@ -7,6 +7,13 @@ several ways to print command in python
  no need to all be string, automatically add blank
 several calculation
 a*=b means a=a*b, other calculation symbols the same
-#to be detected
-import what meanings?
+*import means you fetch a specific function from a library 从书架上拿书
+e.g. ‘from random import randint’: this sentence means you fetch randint这个命令 from random这个命令库中, after this you can directly write randint(1,100)
+*another way: import random|random.randint(1,100),要写random的前缀
+*random：
+ randint(a,b) fetch a random integer in [a,b)
+ uniform(a,b) fetch a rational number in [a,b)
+ random() fetch a random number [0,1)
+ ^区间范围要求待判定，[)是否适用于所有？
+*
 
