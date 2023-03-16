@@ -15,5 +15,5 @@ e.g. ‘from random import randint’: this sentence means you fetch randint这�
  uniform(a,b) fetch a rational number in [a,b)
  random() fetch a random number [0,1)
  ^区间范围要求待判定，[)是否适用于所有？
-*
+*commit a remove command: git rm <filename>
 
