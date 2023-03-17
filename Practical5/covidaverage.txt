@@ -1,0 +1,10 @@
+#pseudocode on 7-day average
+input a group of new-case number as SUM
+a for loop with variables to note the date
+a=0
+for a<8
+ b=(SUM UP a to a+6 in SUM number group)/7
+ print b
+ a+1
+
+
