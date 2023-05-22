@@ -1,0 +1,20 @@
+
+
+(1) the alignment score and (2) the percentage of identical amino acids for each of the three comparisons. 
+
+Your interpretation should state which of the two species’ sequences are most closely related and what biological or evolutionary interpretation you think we can make from these data.
+
+Cat and Mouse
+alignment score: 3592
+percentage Ident: 82.00%
+
+Cat and Human
+alignment score: 3717
+percentage Ident: 85.00%
+
+Mouse and Human
+alignment score: 3579
+percentage Ident: 82.00%
+
+Cat and human sequences are most closely related, which suggests a close link between them during evolution compared to mice.
+	
