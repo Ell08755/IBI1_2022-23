@@ -1,5 +1,5 @@
 Question: Are there places in the World where there have been more than 10,000 total infections(as of 31 March)? If so, where are they?
 
-line79-87
+line79-88
 
-12 countries' total_infection is larger than 10000, which shows nCOV-19 spreads really fast.
+12 countries' total_infection is larger than 10000, which shows nCOV-19 spreads really fast. 
